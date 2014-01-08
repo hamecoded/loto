@@ -1,0 +1,116 @@
+.ballWrapper:nth-child(2) {
+	margin-left: 100px;
+}
+.ballWrapper:nth-child(2) .ball{
+	-webkit-animation: jump 2s infinite;
+	-moz-animation: jump 2s infinite;
+	-o-animation: jump 2s infinite;
+	-ms-animation: jump 2s infinite;
+	animation: jump 2s infinite;
+}
+.ballWrapper:nth-child(2) .ballShadow {
+	-webkit-animation: shrink 2s infinite;
+	-moz-animation: shrink 2s infinite;
+	-o-animation: shrink 2s infinite;
+	-ms-animation: shrink 2s infinite;
+	animation: shrink 2s infinite;
+}
+
+.ballWrapper:nth-child(3) {
+	margin-left: 270px;
+}
+.ballWrapper:nth-child(3) .ball{
+	-webkit-animation: jump 3s infinite;
+	-moz-animation: jump 3s infinite;
+	-o-animation: jump 3s infinite;
+	-ms-animation: jump 3s infinite;
+	animation: jump 3s infinite;
+}
+.ballWrapper:nth-child(3) .ballShadow {
+	-webkit-animation: shrink 3s infinite;
+	-moz-animation: shrink 3s infinite;
+	-o-animation: shrink 3s infinite;
+	-ms-animation: shrink 3s infinite;
+	animation: shrink 3s infinite;
+}
+
+.ballWrapper:nth-child(4) {
+	margin-left: -580px;
+}
+.ballWrapper:nth-child(4) .ball{
+	-webkit-animation: jump 4s infinite;
+	-moz-animation: jump 4s infinite;
+	-o-animation: jump 4s infinite;
+	-ms-animation: jump 4s infinite;
+	animation: jump 4s infinite;
+}
+.ballWrapper:nth-child(4) .ballShadow {
+	-webkit-animation: shrink 4s infinite;
+	-moz-animation: shrink 4s infinite;
+	-o-animation: shrink 4s infinite;
+	-ms-animation: shrink 4s infinite;
+	animation: shrink 4s infinite;
+}
+
+.ballWrapper:nth-child(5) {
+	margin-left: -240px;
+}
+.ballWrapper:nth-child(5) .ball{
+	-webkit-animation: jump 5s infinite;
+	-moz-animation: jump 5s infinite;
+	-o-animation: jump 5s infinite;
+	-ms-animation: jump 5s infinite;
+	animation: jump 5s infinite;
+}
+.ballWrapper:nth-child(5) .ballShadow {
+	-webkit-animation: shrink 5s infinite;
+	-moz-animation: shrink 5s infinite;
+	-o-animation: shrink 5s infinite;
+	-ms-animation: shrink 5s infinite;
+	animation: shrink 5s infinite;
+}
+
+.ballWrapper:nth-child(6) {
+	margin-left: -410px;
+}
+.ballWrapper:nth-child(6) .ball{
+	-webkit-animation: jump 6s infinite;
+	-moz-animation: jump 6s infinite;
+	-o-animation: jump 6s infinite;
+	-ms-animation: jump 6s infinite;
+	animation: jump 6s infinite;
+}
+.ballWrapper:nth-child(6) .ballShadow {
+	-webkit-animation: shrink 6s infinite;
+	-moz-animation: shrink 6s infinite;
+	-o-animation: shrink 6s infinite;
+	-ms-animation: shrink 6s infinite;
+	animation: shrink 6s infinite;
+}
+
+.ballWrapper:nth-child(7) {
+	margin-left: 440px;
+}
+.ballWrapper:nth-child(7) .ball{
+	-webkit-animation: jump 0.3s infinite;
+	-moz-animation: jump 0.3s infinite;
+	-o-animation: jump 0.3s infinite;
+	-ms-animation: jump 0.3s infinite;
+	animation: jump 0.3s infinite;
+}
+.ballWrapper:nth-child(7) .ballShadow {
+	-webkit-animation: shrink 0.3s infinite;
+	-moz-animation: shrink 0.3s infinite;
+	-o-animation: shrink 0.3s infinite;
+	-ms-animation: shrink 0.3s infinite;
+	animation: shrink 0.3s infinite;
+}
+
+
+.lotoon{
+	background-image: url(../images/lotoon.png);
+	background-size: 100% 100%;
+	width: 200px;
+	height: 200px;
+	float: right;
+}
